@@ -1,0 +1,83 @@
+This project is a fork of FlatlyPage CMS.
+Original code is licensed under SA-SDL v1.0.
+
+All modifications and original contributions made by AxElitusDeep Polska
+are additionally licensed under the Custom License for Fork
+described below.
+
+The Custom License applies only to the original contributions
+and modifications created by AxElitusDeep Polska and does not
+replace or override the original SA-SDL license.
+
+Custom License for Fork
+Version 1.0
+© 2026 AxElitusDeep Polska
+
+====================================================================
+1. SCOPE OF LICENSE
+====================================================================
+
+This Custom License applies exclusively to all original code,
+modifications, extensions, and other contributions created by
+AxElitusDeep Polska as part of this forked project
+(the “Fork Contributions”).
+
+This License does NOT apply to the original FlatlyPage CMS codebase,
+which remains licensed under the SA-SDL v1.0 license.
+
+====================================================================
+2. GRANT OF RIGHTS
+====================================================================
+
+Permission is hereby granted, free of charge, to any person or entity
+obtaining a copy of the Fork Contributions, to:
+
+- use, copy, and modify the Fork Contributions,
+- merge the Fork Contributions with the original Software,
+- use the Fork Contributions for personal, internal, or commercial purposes,
+
+subject to the conditions described below.
+
+====================================================================
+3. CONDITIONS AND LIMITATIONS
+====================================================================
+
+1. The Fork Contributions may not be offered, sold, or distributed
+   as a standalone product or service whose primary value is
+   the Fork Contributions themselves without explicit written
+   permission from AxElitusDeep Polska.
+
+2. Any distribution of the Fork Contributions must retain this
+   Custom License notice.
+
+3. This License does not grant any rights to use trademarks,
+   names, or branding associated with AxElitusDeep Polska
+   without prior written consent.
+
+====================================================================
+4. COMPATIBILITY WITH ORIGINAL LICENSE
+====================================================================
+
+Use of the Fork Contributions in combination with the original
+FlatlyPage CMS code remains subject to the terms and conditions
+of the SA-SDL v1.0 license.
+
+In the event of any conflict, the SA-SDL v1.0 license shall govern
+the use of the original Software.
+
+====================================================================
+5. WARRANTY AND LIABILITY
+====================================================================
+
+The Fork Contributions are provided "AS IS", without warranty of
+any kind, express or implied.
+
+AxElitusDeep Polska shall not be liable for any damages arising
+from the use of the Fork Contributions.
+
+====================================================================
+6. TERMINATION
+====================================================================
+
+Any violation of this Custom License automatically terminates
+the rights granted herein.
